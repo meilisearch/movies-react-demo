@@ -25,7 +25,7 @@ npm install
 
 Start the project:
 
-```
+```bash
 # using yarn
 yarn start
 
