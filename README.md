@@ -37,4 +37,4 @@ npm run start
 
 This demo is available on codesandbox where you can fork it and play with it!
 
-[![Edit MS + Vue-IS](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/aged-shape-1vs2p?file=/src/App.js)
+[![Edit MS + Vue-IS](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-movies-demo-e1dqh)
